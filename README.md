@@ -20,9 +20,7 @@ The live version of the website can be accessed at: [http://tahmidkarimsaad.webh
 
 ## Technologies Used  
 The website was built using the following technologies:  
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React  
-- **Backend**: PHP, Node.js  
-- **Database**: MySQL, MongoDB  
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript
 
 <hr>
 
@@ -68,15 +66,10 @@ The website was built using the following technologies:
 
 <hr>
 
-## License  
-This project is licensed under the [Your Preferred License Here] License.  
-
-<hr>
-
 ## Contact  
 For any inquiries or feedback, feel free to reach out:  
-- Email: [your.email@mail.com](mailto:your.email@mail.com)  
-- Portfolio: [Your Portfolio Link Here]  
+- Email: [tahmid.karim.saad@mail.com](mailto:tahmid.karim.saad@mail.com)  
+- Portfolio: [[Your Portfolio Link Here](http://tahmidkarimsaad.webhop.me:82/)]  
 
 <hr>
 
