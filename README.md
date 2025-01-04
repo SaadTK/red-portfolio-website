@@ -69,7 +69,7 @@ The website was built using the following technologies:
 ## Contact  
 For any inquiries or feedback, feel free to reach out:  
 - Email: [tahmid.karim.saad@mail.com](mailto:tahmid.karim.saad@mail.com)  
-- Portfolio: [[Your Portfolio Link Here](http://tahmidkarimsaad.webhop.me:82/)]  
+- Portfolio: [[http://tahmidkarimsaad.webhop.me:82/](http://tahmidkarimsaad.webhop.me:82/)]  
 
 <hr>
 
